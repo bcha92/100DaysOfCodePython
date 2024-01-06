@@ -16,4 +16,5 @@
 
 ## Challenges
 
-1. (Band Name Generator)[https://github.com/bcha92/100DaysOfCodePython/001_Band_Name_Generator]
+1. [Band Name Generator](https://github.com/bcha92/100DaysOfCodePython/tree/main/001_Band_Name_Generator)
+2. [Tip Calculator](https://github.com/bcha92/100DaysOfCodePython/tree/main/002_Tip_Calculator)
