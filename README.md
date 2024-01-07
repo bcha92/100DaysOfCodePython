@@ -10,7 +10,13 @@
 4. Follow the `Instructions.md` in the folder
    <b>OR</b>
    in the absence of one, simply launch the program on the terminal with the prompt
+
    ```py
+   # This example is for launching the Tip Calculator from the repository root folder
+   python 002_Tip_Calculator\main.py
+
+   # OR you can navigate to the folder first, and then launch the Tip Calculator from there
+   cd 002_Tip_Calculator
    python main.py
    ```
 
@@ -18,3 +24,4 @@
 
 1. [Band Name Generator](https://github.com/bcha92/100DaysOfCodePython/tree/main/001_Band_Name_Generator)
 2. [Tip Calculator](https://github.com/bcha92/100DaysOfCodePython/tree/main/002_Tip_Calculator)
+3. [Treasure Island](https://github.com/bcha92/100DaysOfCodePython/tree/main/003_Treasure_Island)
