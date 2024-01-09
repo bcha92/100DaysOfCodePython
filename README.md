@@ -26,3 +26,4 @@
 2. [Tip Calculator](https://github.com/bcha92/100DaysOfCodePython/tree/main/002_Tip_Calculator)
 3. [Treasure Island](https://github.com/bcha92/100DaysOfCodePython/tree/main/003_Treasure_Island)
 4. [Rock, Paper, Scissors](https://github.com/bcha92/100DaysOfCodePython/tree/main/004_Rock_Paper_Scissors)
+5. [Password Generator](https://github.com/bcha92/100DaysOfCodePython/tree/main/005_Password_Generator)
