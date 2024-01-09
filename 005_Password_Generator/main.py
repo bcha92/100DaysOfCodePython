@@ -2,10 +2,10 @@
 import random
 
 letters = []
-lettersL = "a b c d e f g h i j k l m n o p q r s t u v w x y z".split(" ")
-lettersU = " ".join(lettersL).upper().split(" ")
-numbers = "0 1 2 3 4 5 6 7 8 9".split(" ")
-symbols = "! @ # $ % ^ & * - _ + = / ? \\".split(" ")
+lettersL = list("abcdefghijklmnopqrstuvwxyz")
+lettersU = list("".join(lettersL).upper())
+numbers = list("0123456789")
+symbols = list("!@#$%^&*-_+=/?")
 
 use = {
     "lower": True,
