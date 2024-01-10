@@ -7,7 +7,7 @@
 1. Clone this repository
 2. Enter any of the challenge folder (list below)
 3. Open Terminal and ensure you have python installed
-4. Follow the `Instructions.md` in the folder
+4. Follow the `instructions.md` in the folder
    <b>OR</b>
    in the absence of one, simply launch the program on the terminal with the prompt
 
@@ -27,3 +27,4 @@
 3. [Treasure Island](https://github.com/bcha92/100DaysOfCodePython/tree/main/003_Treasure_Island)
 4. [Rock, Paper, Scissors](https://github.com/bcha92/100DaysOfCodePython/tree/main/004_Rock_Paper_Scissors)
 5. [Password Generator](https://github.com/bcha92/100DaysOfCodePython/tree/main/005_Password_Generator)
+6. [(External) Reeborg's World](https://reeborg.ca/reeborg.html?name=Maze) - Click [here](https://github.com/bcha92/100DaysOfCodePython/tree/main/006_Reeborgs_World) to see the main.py code for the site and documentation
