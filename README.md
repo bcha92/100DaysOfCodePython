@@ -28,3 +28,4 @@
 4. [Rock, Paper, Scissors](https://github.com/bcha92/100DaysOfCodePython/tree/main/004_Rock_Paper_Scissors)
 5. [Password Generator](https://github.com/bcha92/100DaysOfCodePython/tree/main/005_Password_Generator)
 6. [(External) Reeborg's World](https://reeborg.ca/reeborg.html?name=Maze) - Click [here](https://github.com/bcha92/100DaysOfCodePython/tree/main/006_Reeborgs_World) to see the main.py code for the site and documentation
+7. [Hangman](https://github.com/bcha92/100DaysOfCodePython/tree/main/007_Hangman)
