@@ -35,12 +35,14 @@ def caesar_cipher(protocol: str, text: str, shift_amount):
             if protocol == "encode": new_position = alpha.index(char.lower()) + shift_amount
             elif protocol == "decode": new_position =  alpha.index(char.lower()) - shift_amount
             else: new_position = alpha.index(char.lower())
-            while new_position < 0 or new_position > len(alpha) - 1:
-                if new_position < 0: new_position += len(alpha)
-                else: new_position -= len(alpha)
+            
+            if new_position < 0: new_position = new_position % len(alpha)
+            else: new_position = new_position % len(alpha)
+            
             if char.isupper(): output_text += alpha[new_position].upper()
             else: output_text += alpha[new_position]
         except ValueError: output_text += char
+    print(new_position)
     return output_text
 
 print(splash)
