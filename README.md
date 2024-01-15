@@ -30,3 +30,4 @@
 6. [(External) Reeborg's World](https://reeborg.ca/reeborg.html?name=Maze) - Click [here](https://github.com/bcha92/100DaysOfCodePython/tree/main/006_Reeborgs_World) to see the main.py code for the site and documentation
 7. [Hangman](https://github.com/bcha92/100DaysOfCodePython/tree/main/007_Hangman)
 8. [Caesar Cipher](https://github.com/bcha92/100DaysOfCodePython/tree/main/008_Caesar_Cipher)
+9. [Secret Auction](https://github.com/bcha92/100DaysOfCodePython/tree/main/009_Secret_Auction)

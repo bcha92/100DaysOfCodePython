@@ -1,0 +1,2 @@
+## Word Bank for Python Hangman: Feel free to edit and use your own words as needed
+words = ["apple", "banana", "capitalism", "dairy", "elephant", "fantasy", "glory", "haunted", "igloo", "jalapeno", "kilogram", "lolipop", "morning", "nepotism", "oligarchy", "production", "quark", "rodeo", "sulfur", "talisman", "umbrella", "venison", "wonderful", "xylophone", "yokel", "zebra"]
