@@ -31,3 +31,4 @@
 7. [Hangman](https://github.com/bcha92/100DaysOfCodePython/tree/main/007_Hangman)
 8. [Caesar Cipher](https://github.com/bcha92/100DaysOfCodePython/tree/main/008_Caesar_Cipher)
 9. [Secret Auction](https://github.com/bcha92/100DaysOfCodePython/tree/main/009_Secret_Auction)
+10. [Basic Calculator](https://github.com/bcha92/100DaysOfCodePython/tree/main/010_Python_Calculator)
