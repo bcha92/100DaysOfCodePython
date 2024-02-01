@@ -36,7 +36,7 @@ def guess(chosen: int, chances: int):
         print(f"You have {chances} attempts remaining to guess the number.")
         n = guess_a_number()
         
-        if n == chosen: print(f"Congratulations! You have correctly guessed the number I was thinking: {chosen}")
+        if n == chosen: print(f"\nCongratulations! You have correctly guessed the number I was thinking: {chosen}")
         elif n < 1 or n > 100:
             print("You are out of bounds. Please guess a number between 1 and 100!")
             chances -= 1
