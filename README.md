@@ -20,7 +20,9 @@
    python main.py
    ```
 
-## Challenges
+## Project Challenge of the Day
+
+NOTE: There are no project challenges for the following days: 13
 
 1. [Band Name Generator](https://github.com/bcha92/100DaysOfCodePython/tree/main/001_Band_Name_Generator)
 2. [Tip Calculator](https://github.com/bcha92/100DaysOfCodePython/tree/main/002_Tip_Calculator)
@@ -32,3 +34,7 @@
 8. [Caesar Cipher](https://github.com/bcha92/100DaysOfCodePython/tree/main/008_Caesar_Cipher)
 9. [Secret Auction](https://github.com/bcha92/100DaysOfCodePython/tree/main/009_Secret_Auction)
 10. [Basic Calculator](https://github.com/bcha92/100DaysOfCodePython/tree/main/010_Python_Calculator)
+11. [Blackjack](https://github.com/bcha92/100DaysOfCodePython/tree/main/011_Capstone_Blackjack)
+12. [Guess Number](https://github.com/bcha92/100DaysOfCodePython/tree/main/012_Guess_Number)
+13.
+14. [Higher Lower Game](https://github.com/bcha92/100DaysOfCodePython/tree/main/014_Higher_Lower)
